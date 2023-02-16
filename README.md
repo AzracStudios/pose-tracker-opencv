@@ -1,5 +1,15 @@
 # Pose Tracker
 
+![Pose Tracking](./git_assets/pose_tracking.gif)
+
+
+![Hand Tracking](./git_assets/hand_tracking.gif)
+
+
+![Face Tracking](./git_assets/face_tracking.gif)
+
+
+
 ## Introduction
 This is a simple application, built with python and opencv, making use of the mediapipe framework. 
 
